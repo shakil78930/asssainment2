@@ -1,0 +1,499 @@
+.full-page{
+    background-color: black;
+    margin:0% ;
+    padding:0%;
+}
+
+.disply-flex{
+    display: flex;
+}
+.color-white{
+    color: white;
+}
+
+.button{background-color: rgba(230, 83, 60, 1);
+   }
+
+.button-1{
+    background-color:rgba(230, 83, 60, 1) ;
+    width: 224px;
+    height: 54px;
+    border-radius: 42px;
+    padding: 16px, 40px, 16px, 40px;
+    border: none;
+    color: white;
+
+}
+
+.button-2{border: 2px solid white;
+    background-color: black;
+    color: aliceblue;
+    width: 224px;
+    height: 54px;
+    border-radius: 42px;
+    padding: 16px, 40px, 16px, 40px;
+
+}
+
+.color-1{
+    color: rgba(230, 83, 60, 1);
+}
+
+.bg-color{
+    background-color: rgba(119, 119, 119, 0);
+    background-color: black;
+    width: 100%;
+    height:715px;
+
+}
+
+.brand{
+    font-weight:800 ;
+    font-size:2.2rem ;
+}
+.nav-item{
+    list-style: none;
+    margin-right: 30px;
+
+}
+.nav-link{
+text-decoration: none;
+color: aliceblue;
+}
+
+.navber{
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navber{
+    max-width: 1440px;
+    margin: 0% auto;
+   
+}
+.banner-style{
+    color: aliceblue;
+    width:520px ;
+    height:440px ;
+    margin-left: 100px;
+}
+.h-font-size{
+    font-weight:900px ;
+    font-size:4.875rem ;
+}
+
+.banner{ display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+.banner-image{
+    margin-right: 150px;
+}
+
+
+.image-button1{
+ background-color: rgba(255, 255, 255, 0.1);
+ width:193px ;
+ height: 98px;
+ color: white;
+ border-radius: 12px; 
+}
+.btn-500{font-weight:900 ;
+    font-size:2.5rem ;
+
+}
+
+
+
+
+
+
+
+.scend-part{
+    max-width: 671px;
+    height: 120px;
+    margin:0% auto;
+    text-align: center;
+    background-color: black;
+    
+}
+.scend-taitel{color: white;
+    font-size:3rem ;
+    font-weight: 900;
+}
+.scend-p{
+    color: rgba(255, 255, 255, 0.5);
+
+}
+
+.image-style{
+    width: 180px;
+    height:180 ;
+    border: 4px solid blueviolet;
+    border-radius:100px ;
+
+}
+
+.card{
+    display: flex;
+}
+
+.card-one{
+    width: 231px;
+    height: 274px;
+    justify-content: center;
+    text-align: center;
+    gap: 40px;
+    margin: 58px auto;
+}
+
+.image-6{width:366px ;
+    height:312px ;
+    border-radius: 18px;
+    
+
+}
+.b-taitel2{font-size: 3rem;
+    font-weight: 900;
+    color: white;
+
+}
+
+.scend-banner-child{
+    width:443px ;
+    height:290px ;
+   
+
+}
+.scend-banner{
+    width:1060px ;
+    height:371px ;
+    border: 2px solid blueviolet; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 165px;
+    background-color: rgba(34, 34, 34, 1);
+    margin:100px  auto;
+}
+
+
+
+
+
+
+.part-4{
+    width: 671px;
+    height: 120px;
+    
+    margin-left: 220px;
+}
+.part-4-image{
+    width:1060px ;
+    height:403px ;
+    
+    margin-left: 220px;
+    margin-top: 58px;
+
+    
+}
+
+.p-4-1{
+    width:250px;
+    height:201px ;
+    
+}
+.p-4-2{width: 520px;
+    height: 201px;
+
+}
+.p-4-3{
+    width: 290px;
+    height: 201px;
+}
+.p-4-4{
+    width:425px ;
+    height:201px ;
+}
+.p-4-5{
+    width: 288px;
+    height: 201px;
+}
+.p-4-6{
+    width:347px ;
+    height:201px ;
+}
+
+.part-4-image-1{
+    width:1060px ;
+    height:201px ;
+    display: flex;
+}
+
+.part-4-image-2{
+    width:1060px ;
+    height:201px ;
+    display: flex;
+}
+
+.part-4-end-tailel{
+    width: 671px;
+    height:120px ;
+    color: white;
+    margin: 0 auto;
+    margin-top: 88px;
+}
+
+
+
+
+
+.part-5{
+    width:100% ;
+    height:487px ;
+    background-color: rgba(34, 34, 34, 1);
+    margin-top: 296px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    gap: 175px;
+}
+.part-5-tabil{
+    gap: 52px;
+}
+.main-tabil{
+    width:320px ;
+    height:216px ;
+}
+
+.box-size{
+width:282px ;
+height:48px ;
+border-radius: 8px;
+padding-left: 12px;
+}
+.box-2{
+    width:595px ;
+    height:48px ;
+    border-radius: 8px;
+}
+.last-button{
+    margin-top: 20px;
+}
+
+.box-taitel{
+    width:577px ;
+    
+}
+
+
+
+
+
+
+.part-6{
+    
+}
+.part-6-taitel{
+    width: 671px;
+    height:120px ;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 88px;
+    
+}
+
+.last-image-box{
+    width: 1060px;
+    height: 604px;
+    border-radius: 1rem;
+    background-color: rgba(255, 255, 255, 0.1);
+    margin: 0 auto;
+    margin-top: 58px;
+    
+}
+
+.image-box{width:326.67px ;
+    height:272px ;
+    border-radius: 1rem;
+    
+    
+
+}
+
+.gapping{margin-left: 20px;
+    margin-top: 20px;
+}
+
+.part-7{
+    color: aliceblue;
+    width: 100%;
+    height: 489px;
+    background-color: rgba(255, 255, 255, 0.1);
+    margin-top: 88px;
+    padding-left: 140px;
+    
+}
+.part-7-part-1{
+    width: 443px;
+    height: 173px;
+    margin-left: 90px;
+    margin-top: 30px;
+    
+}
+
+.part-7-1{
+    font-size: 70px;
+    font-weight: 800;
+
+}
+
+.part-7-part-2{
+    margin-left: 102px;
+    margin-top: 66px;
+}
+
+
+.part-7-part-3{
+    margin-left: 152px;
+    margin-top: 66px;
+}
+
+.underline{
+    
+    width:1020px ;
+    height: 1px;
+    border: 1px solid white;
+    margin-left: 230px;
+    margin-top: -150px;
+    
+}
+
+.last{
+    color: rgba(255, 255, 255, 0.5);
+   margin-left:40%;
+   margin-top: 40px;
+}
+
+@media screen and (max-width:576px ){
+
+    .banner{
+        flex-direction: column;
+    }
+    .banner-style{
+        max-width:353px ;
+        height:335px ;
+        gap: 71px;
+        margin-top: 146px;
+        margin-left: 20px;
+    }
+    
+
+    .banner-image{
+        width:353px ;
+        height:588px ;
+        margin-top:400px ;
+        margin-left:20px ;
+    }
+
+    .scend-part{
+        width:353px ;
+        margin-left: 20px;
+        margin-top: 150px;
+    }
+
+    .card{
+        width:353px ;
+        margin-top: 50px;
+        margin-left: 20px;
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+
+    .scend-banner  {
+        max-width: 353px;
+        height: auto;
+        margin-left: 10px;
+        margin-top: 50px;
+        display: flex;
+        flex-direction: column;
+        
+
+    }
+    .scend-banner-child{
+        max-width: 353px;
+        margin-left: 20px;
+        margin-top: 10px;
+
+    }
+
+    .image-6{
+
+        margin-top: 10px;
+        max-width: 320px;
+        margin-top: -120px;
+    }
+
+    .part-4{ max-width: 353px;
+        height: 162px;
+        margin-left: 20px;
+    }
+
+
+
+
+    .part-4-image {
+        max-width: 353px;
+        margin-left: 5px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    
+    
+    
+    
+    
+    .part-4-end-tailel{
+        max-width: 353px;
+        margin-left: 20px;
+    }
+
+   .part-5{
+    max-width: 353px;
+    height: auto;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+   }
+
+   .box-taitel{
+    max-width: 300px;
+    margin-left: 10px;
+   }
+
+   .inputgula{
+    max-width: 353px;
+    margin-top: -120px;
+    margin-left: 20px;
+   }
+
+   .box-response{
+    max-width: 292px;
+   }
+
+   .part-6-taitel{
+    width:309px ;
+    height:128px ;
+    margin-left: 40px;
+   }
+   .last-image-box{
+    max-width: 353px;
+    height: auto;
+    margin-left: 2px;
+   }
+
+}
